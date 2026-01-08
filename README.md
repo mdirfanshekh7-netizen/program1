@@ -4,6 +4,7 @@ This is my first Repository
 Author-Md Irfan
 <br>
 Book-Physics
+Book-Math
 <br>
 Address-Patna,Bihar
 
